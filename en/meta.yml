@@ -1,11 +1,9 @@
 title: Wiring multiple crafted switches or buttons
 hero_image: images/banner.png
-description: multiple-crafted-switch-button-wiring description
+description: How to wire multiple craft switches or buttons to your Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-09"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Wiring multiple crafted switches or buttons
