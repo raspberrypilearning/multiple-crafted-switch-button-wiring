@@ -1,12 +1,12 @@
-You will need:
+Tu auras besoin de :
 
-+ A Raspberry Pi Pico
-+ 2 x pin-socket jumper wires for each crafted switch
++ Un Raspberry Pi Pico
++ 2 fils de liaison broche-prise pour chaque interrupteur artisanal
 
-**Note:** This diagram shows **six** jumper wires attached to the Raspberry Pi Pico. This is enough for **three** crafted buttons or switches. If you would like a **fourth** switch then you will need to attach it to a **GP** pin and a **GND** on the right hand side.
+**Remarque :** Ce schéma montre **six** fils de liaison reliés au Raspberry Pi Pico. C'est suffisant pour **trois** boutons ou interrupteurs artisanaux. Si tu souhaites un **quatrième** commutateur, tu devras le connecter à une broche **GP** et à une broche **GND** sur le côté droit.
 
-+ Attach two pin-socket jumper wires to **GP18** and the closest **GND**
-+ Attach two pin-socket jumper wires to **GP22** and the closest **GND**
-+ Attach two pin-socket jumper wires to **GP28** and the closest **GND**
++ Fixe deux fils de liaison broche-prise à **GP18** et au **GND** le plus proche
++ Fixe deux fils de liaison broche-prise à **GP22** et au **GND** le plus proche
++ Fixe deux fils de liaison broche-prise à **GP28** et au **GND** le plus proche
 
-![Eight pin-socket jumper wires attached to a Raspberry Pi Pico.](images/multiple-crafted-switch-wiring.png)
+![Huit fils de liaison broche-prise attachés à un Raspberry Pi Pico.](images/multiple-crafted-switch-wiring.png)
