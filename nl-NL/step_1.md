@@ -1,12 +1,12 @@
-You will need:
+Je hebt nodig:
 
-+ A Raspberry Pi Pico
-+ 2 x pin-socket jumper wires for each crafted switch
++ Een Raspberry Pi Pico
++ 2 x pin-bus verbindingsdraden voor elke zelfgemaakte schakelaar
 
-**Note:** This diagram shows **six** jumper wires attached to the Raspberry Pi Pico. This is enough for **three** crafted buttons or switches. If you would like a **fourth** switch then you will need to attach it to a **GP** pin and a **GND** on the right hand side.
+**Opmerking:** Dit diagram toont **zes** verbindingsdraden die zijn aangesloten op de Raspberry Pi Pico. Dit is genoeg voor **drie** zelfgemaakte knoppen of schakelaars. Als je een **vierde** schakelaar wilt, dan moet je deze aan een **GP** pin en een **GND** aan de rechterkant bevestigen.
 
-+ Attach two pin-socket jumper wires to **GP18** and the closest **GND**
-+ Attach two pin-socket jumper wires to **GP22** and the closest **GND**
-+ Attach two pin-socket jumper wires to **GP28** and the closest **GND**
++ Bevestig twee pin-bus verbindingsdraden aan **GP18** en de dichtstbijzijnde **GND**
++ Bevestig twee pin-bus verbindingsdraden aan **GP22** en de dichtstbijzijnde **GND**
++ Bevestig twee pin-bus verbindingsdraden aan **GP28** en de dichtstbijzijnde **GND**
 
-![Eight pin-socket jumper wires attached to a Raspberry Pi Pico.](images/multiple-crafted-switch-wiring.png)
+![Acht pin-bus verbindingsdraden bevestigd aan een Raspberry Pi Pico.](images/multiple-crafted-switch-wiring.png)
